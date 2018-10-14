@@ -1,2 +1,3 @@
 # N-Queen
-N-Queen problem 
+N-Queen problem with backtracking.
+
